@@ -1,4 +1,10 @@
-### Hi there 👋
+
+## I’m currently learning ...
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,go,rust" />
+  </a>
+</p>
 
 <!--
 **raissa-coelho/raissa-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
