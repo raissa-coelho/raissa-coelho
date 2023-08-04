@@ -1,8 +1,14 @@
+## Hello
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,go,c,python,java" />
+  </a>
+</p>
 
 ## I’m currently learning ...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,go,rust" />
+    <img src="https://skillicons.dev/icons?i=rust,latex,r" />
   </a>
 </p>
 
