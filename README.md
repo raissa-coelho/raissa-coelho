@@ -7,7 +7,7 @@ I'm a developer fueled by curiosity and a love for learning. Whether it`s design
 - 🚀 **Interested in:** Game development, front-end , AI tools, and software architecture
 
 ### 🛠️ Tech
-- **Languages:** C, C++, C#, Python, GO, Ruby, R, Java
+- **Languages:** C, C++, C#, Python, GO, Ruby, R, Java, Rust
 - **Frameworks/Engines:** Vue.js, Node.js
 - **Tools:** Git, Docker, Pydub, ROS
 - **Databases:** MySQL, MariaDB
