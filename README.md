@@ -4,7 +4,7 @@
 I'm a developer fueled by curiosity and a love for learning. Whether it`s designing game, building applications, or diving into new framework, I enjoy the process of turning ideas into functional solutions. Every project is a chance to challenge myself, explore new concepts, and grow. I believe in teamwork and continuous learning, while also having a little fun along the way.
 
 - 🎓 **Background:** Computer Engineer
-- 🚀 **Interested in:** Game development, front-end , AI tools, and software architecture
+- 🚀 **Interested in:** Game development, front-end , AI tools, software architecture, RISC-V 
 
 ### 🛠️ Tech
 - **Languages:** C, C++, C#, Python, GO, Ruby, R, Java, Rust
